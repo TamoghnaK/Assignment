@@ -1,0 +1,8 @@
+Learn how to identify good AngularJS candidates with Amit Patel - by Rezoomex
+angularjs interview questions | front end developer interview questions
+What You Need to Know to be a Front End Developer in 2018
+Tricky JavaScript Interview Questions and Answers
+Top 10 css interview questions and answers
+Ng Serve Not Working - Angular.json Could not be Found
+https://github.com/jeffersonRibeiro/react-shopping-cart
+https://www.youtube.com/watch?v=i_X9VB-tIzk
